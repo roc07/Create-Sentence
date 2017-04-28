@@ -1,0 +1,6 @@
+C:\Users\john\Desktop\c# words\Sentence Creator\Sentence Creator\bin\Debug\Sentence Creator.exe.config
+C:\Users\john\Desktop\c# words\Sentence Creator\Sentence Creator\bin\Debug\Sentence Creator.exe
+C:\Users\john\Desktop\c# words\Sentence Creator\Sentence Creator\bin\Debug\Sentence Creator.pdb
+C:\Users\john\Desktop\c# words\Sentence Creator\Sentence Creator\obj\Debug\Sentence Creator.csprojResolveAssemblyReference.cache
+C:\Users\john\Desktop\c# words\Sentence Creator\Sentence Creator\obj\Debug\Sentence Creator.exe
+C:\Users\john\Desktop\c# words\Sentence Creator\Sentence Creator\obj\Debug\Sentence Creator.pdb
